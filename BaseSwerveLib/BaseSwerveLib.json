@@ -1,0 +1,22 @@
+{
+  "fileName": "BaseSwerveLib.json",
+  "name": "BaseSwerveLib",
+  "version": "2024.4.8.6",
+  "frcYear": "2024",
+  "uuid": "e0dd3f7b-2ed9-412a-8719-f48ff6213f07",
+  "mavenUrls": [
+    "https://aopalka.github.io/BaseSwerveLib/repos"
+  ],
+  "jsonUrl": "https://aopalka.github.io/BaseSwerveLib/BaseSwerveLib.json",
+  "javaDependencies": [
+    {
+      "groupId": "BaseSwerveLib",
+      "artifactId": "BaseSwerveLib-java",
+      "version": "2024.4.8.6"
+    }
+  ],
+  "jniDependencies": [
+  ],
+  "cppDependencies": [
+  ]
+}
