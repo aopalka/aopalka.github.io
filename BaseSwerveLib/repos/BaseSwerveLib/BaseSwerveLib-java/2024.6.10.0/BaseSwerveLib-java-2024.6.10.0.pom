@@ -4,5 +4,5 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>BaseSwerveLib</groupId>
   <artifactId>BaseSwerveLib-java</artifactId>
-  <version>2024.4.8.6</version>
+  <version>2024.6.10.0</version>
 </project>
