@@ -1,7 +1,7 @@
 {
   "fileName": "BaseSwerveLib.json",
   "name": "BaseSwerveLib",
-  "version": "2024.6.13.11",
+  "version": "2024.6.13.12",
   "frcYear": "2024",
   "uuid": "e0dd3f7b-2ed9-412a-8719-f48ff6213f07",
   "mavenUrls": [
@@ -12,7 +12,7 @@
     {
       "groupId": "BaseSwerveLib",
       "artifactId": "BaseSwerveLib-java",
-      "version": "2024.6.13.11"
+      "version": "2024.6.13.12"
     }
   ],
   "jniDependencies": [
