@@ -3,11 +3,11 @@
   <groupId>BaseSwerveLib</groupId>
   <artifactId>BaseSwerveLib-cpp</artifactId>
   <versioning>
-    <latest>2024.6.14.6</latest>
-    <release>2024.6.14.6</release>
+    <latest>2024.6.14.7</latest>
+    <release>2024.6.14.7</release>
     <versions>
-      <version>2024.6.14.6</version>
+      <version>2024.6.14.7</version>
     </versions>
-    <lastUpdated>20240614211502</lastUpdated>
+    <lastUpdated>20240614212357</lastUpdated>
   </versioning>
 </metadata>
