@@ -1,5 +1,5 @@
 # Swerve README
-Hello, this is what I'm calling the "Base Swerve", this is made based on 364's code, but I have added many features, 2nd Order Swerve Kinematics. </br>
+Hello, this is what I'm calling the "Base Swerve", this is made based on 364's code, but I have added many features, including 2nd Order Swerve Kinematics. </br>
 
 # BaseSwerve </br>
 **Project Goals**
@@ -13,6 +13,11 @@ Hello, this is what I'm calling the "Base Swerve", this is made based on 364's c
 
 **Basic Swerve Code for a Swerve Module using Falcon/Kraken Motors, a CTRE CANCoder, and a CTRE Pigeon2 Gyro** </br>
 This code was designed with Swerve Drive Specialties MK3, MK4, and MK4i style modules in mind, but should be easily adaptable to other styles of modules.</br>
+
+**Using the Swerve library**
+----
+The following things must be adjusted to your robot and module's specific constants in the Constants.java file (all distance units must be in meters, and rotation units in radians):</br>
+
 
 **Setting Constants For Swerve**
 ----
