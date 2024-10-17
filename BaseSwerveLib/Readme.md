@@ -1,37 +1,37 @@
 # Swerve README
-Hello, this is what I'm calling the "Base Swerve".</br>
+Hello, this is what I'm calling the "Base Swerve".
 
 - [Swerve Details](Swerve.md)
 - [Getting Up and Running](GettingStarted.md)
 
 
-# BaseSwerve </br>
+# BaseSwerve
 **Supported Functionality**
 ----
 - [x] CANivore Support
-- [x] "Universal" Gyro support </br>
-    - [x] Pigeon2 Support </br>
-    - [x] NAVX Support </br>
-- [x] "Universal" Motor support ( Rev/CTRE/WCP ).</br>
-    - [x] Falon500 Support </br>
-    - [x] KrakenX60 Support </br>
-    - [x] NEO Support </br>
-    - [x] Vortex Support </br>
-- [x] "Universal" Absolute Encoder support ( CTRE/Helium ).</br>
-    - [x] Helium Encoder Support </br>
-    - [x] CANCoder Support </br>
-- [x] Phoenix 6 API Integration. </br>
-- [x] AdvantageKit/Scope Integration. </br>
+- [x] "Universal" Gyro support
+    - [x] Pigeon2 Support
+    - [x] NAVX Support
+- [x] "Universal" Motor support ( Rev/CTRE/WCP ).
+    - [x] Falon500 Support
+    - [x] KrakenX60 Support
+    - [x] NEO Support
+    - [x] Vortex Support
+- [x] "Universal" Absolute Encoder support ( CTRE/Helium ).
+    - [x] Helium Encoder Support
+    - [x] CANCoder Support
+- [x] Phoenix 6 API Integration.
+- [x] AdvantageKit/Scope Integration.
 
 
-This code was designed with Swerve Drive Specialties MK4i style modules with other COTS modules.</br>
+This code was designed with Swerve Drive Specialties MK4i style modules with other COTS modules.
 
 
 **Controller Mappings**
 ----
-This code is natively setup to use a xbox controller to control the swerve drive. </br>
+This code is natively setup to use a xbox controller to control the swerve drive. 
 * Left Stick: Translation Control (forwards and sideways movement)
-* Right Stick: Rotation Control </br>
+* Right Stick: Rotation Control
 * Y button: Zero Gyro (useful if the gyro drifts mid match, just rotate the robot forwards, and press Y to rezero)
 * B button: Resets Modules to forward.
 * Left Bumper: Switches To Robot Centric Control while held
