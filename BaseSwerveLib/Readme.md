@@ -7,7 +7,7 @@ Hello, this is what I'm calling the "Base Swerve".
 
 # BaseSwerve
 **Supported Functionality**
-----
+---------------------------
 - [x] CANivore Support
 - [x] "Universal" Gyro support
     - [x] Pigeon2 Support
@@ -28,7 +28,7 @@ This code was designed with Swerve Drive Specialties MK4i style modules with oth
 
 
 **Controller Mappings**
-----
+---------------------------
 This code is natively setup to use a xbox controller to control the swerve drive. 
 * Left Stick: Translation Control (forwards and sideways movement)
 * Right Stick: Rotation Control
